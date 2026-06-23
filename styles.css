@@ -1,0 +1,27 @@
+body {
+    background-color: peachpuff;
+    font-family: "Helvetica", sans-serif;
+  }
+h2{
+  margin-top: 15px;
+  margin-bottom: 25px;
+  margin-left: 25px;
+}
+iframe{
+  margin-left: 44px;
+  margin-right: 45px;
+  width: 90%;
+  height: 700px;
+}
+nav{
+  border: 3px white solid;
+  border-radius: 25px;
+  background-color: rgb(252, 181, 119);
+  padding: 15px;
+  margin: 10px;
+}
+nav a{
+  font-size: 25px;
+  margin-left: 25px;
+  text-decoration: none;
+}
